@@ -27,7 +27,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-	  <a class="brand" href="./index.html">o-blog</a>
+	  <a class="brand" href="./index.html">A BLog</a>
 	  <div class="nav-collapse collapse">
 	    <ul>
 <li><a href="./features.html"><i>icon-cog icon-white</i> Features</a>
@@ -157,6 +157,10 @@ A stand-alone blog and publication tool for <a href="http://orgmode.org/">Org-mo
 
 
 </div>
+
+<pre class="src src-haskell">fac 0 = 1
+fac n = n * fac (n-1)
+</pre>
 
 
 </div></div>
